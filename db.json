@@ -139,20 +139,6 @@
       "RentalFrequency": 9,
       "RateCount": 5,
       "Brand": "Volkswagen"
-    },
-    {
-      "CarID": 11,
-      "CarName": "Volkswagen GTI",
-      "Price": 700,
-      "Capacity": 5,
-      "Image": "vlokswagen2.png",
-      "CategoryId": 2,
-      "CategoryName": "Hatchback",
-      "FuelType": "Petrol",
-      "TransmitionType": "Automatic",
-      "RentalFrequency": 11,
-      "RateCount": 5,
-      "Brand": "Volkswagen"
     }
   ],
   "carsDetails": [
@@ -324,23 +310,6 @@
       "GPSInstalled": true,
       "BluetoothEnabled": true,
       "InsuranceDetails": "Insured by AXA until 2024",
-      "MaintenanceHistory": "Last serviced on 2023-11-01"
-    },
-    {
-      "CarDetailID": 1234,
-      "CarID": 11,
-      "CategoryId": 2,
-      "Model": "GTI",
-      "Color": "White",
-      "Hybrid": false,
-      "Electric": false,
-      "CurrentStatus": "Available",
-      "AirConditioner": true,
-      "RegistrationNumber": "MA-4567-HI",
-      "Mileage": 10000,
-      "GPSInstalled": true,
-      "BluetoothEnabled": true,
-      "InsuranceDetails": "Insured by Allianz until 2024",
       "MaintenanceHistory": "Last serviced on 2023-11-01"
     }
   ],
